@@ -20,7 +20,7 @@ public class BallsMovement extends PApplet {
     public void draw() {
         if(configs==null)
         {
-            System.out.println("Enpty");
+            System.out.println("Empty");
             return;
         }
         else {
